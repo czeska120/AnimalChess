@@ -8,6 +8,9 @@ The application runs in Java. You may either:
 
 How to Play
 ----
+For full rules of the game, you may view them here:
+http://ancientchess.com/page/play-doushouqi.htm
+
 Before the start of a game, each player picks one animal piece. The one with the higher-ranked animal is the first player. The players will choose a color for their animal pieces (e.g. Player 1 chooses red, Player 2 chooses blue). The players take turns in moving their animal pieces on the board. The game ends when a player successfully moves any of his animal pieces into his opponents animal den.
 
   Generally,
