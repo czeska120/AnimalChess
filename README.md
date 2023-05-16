@@ -28,4 +28,4 @@ Before the start of a game, each player picks one animal piece. The one with the
   * An _elephant_ __may not__ capture a _mouse_, while the _mouse_ can capture an _elephant_.
   * A _mouse_ on the river __may not__ capture an _elephant_, or another _mouse_ on land.
   * A _mouse_ on the river may capture another _mouse_ on the river.
-  * A _mouse_ on land __may not__ capture a _mouse on the river.
+  * A _mouse_ on land __may not__ capture a _mouse_ on the river.
