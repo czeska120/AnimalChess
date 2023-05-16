@@ -3,8 +3,8 @@
 How to Run
 ----
 The application runs in Java. You may either:
-* _Install the source code as a zip file and run on IntelliJ IDEA
-* _Only install the .jar file and run as an executable
+* _Install the source code as a zip file and run on IntelliJ IDEA_
+* _Only install the .jar file and run as an executable_
 
 How to Play
 ----
